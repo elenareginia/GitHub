@@ -1,0 +1,9 @@
+D:\Шаг\boats\boats\bin\Debug\boats.exe.config
+D:\Шаг\boats\boats\bin\Debug\boats.exe
+D:\Шаг\boats\boats\bin\Debug\boats.pdb
+D:\Шаг\boats\boats\obj\Debug\boats.csprojResolveAssemblyReference.cache
+D:\Шаг\boats\boats\obj\Debug\boats.Form1.resources
+D:\Шаг\boats\boats\obj\Debug\boats.Properties.Resources.resources
+D:\Шаг\boats\boats\obj\Debug\boats.csproj.GenerateResource.Cache
+D:\Шаг\boats\boats\obj\Debug\boats.exe
+D:\Шаг\boats\boats\obj\Debug\boats.pdb
